@@ -39,8 +39,10 @@ XYZ::~XYZ( void ) {
 } // method
 
 void XYZ::setup( void ) {
+  // TODO settle the initial code here
 } // method
 
 void XYZ::loop( void ) {
+  // TODO settle the periodical code here
 } // method
 

@@ -1,3 +1,6 @@
+# arduino-makefile stuff
+build*
+
 # Prerequisites
 *.d
 

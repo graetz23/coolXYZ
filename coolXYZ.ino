@@ -30,6 +30,7 @@
  *
  */
 
+#include <Arduino.h>
 #include "./coolXYZ.h" // cool arduino power control processor
 
 XYZ xyz; // cool arduino XYZ object
@@ -40,6 +41,6 @@ void setup( ) {
 
 void loop( ) {
   xyz.loop( );
-  // delay( 100 ); // 10 ms
+  delay( 100 ); // 10 ms
 } // method
 
